@@ -1,19 +1,19 @@
 # MedicalRecords
  A Core Java REST APIs that allows medical institutions to query, filter, and analyze patient data and manage reusable patient cohorts.
 
- Built with:
+ **Built with:**
  
 	1) Language: Core Java
 	2) JSON serialization and deserialization: Jackson 
 	3) Database: PostgreSQL
 	4) Build tool: Maven
 
- Features:
+ **Features:**
   
 	1) Patients: create, list, filter with comparison operators.
 	2) Manage cohorts: create, list, filter patients as per the filter description in cohorts
 
- Prerequisites:
+ **Prerequisites:**
   
 	1) Java
 	2) Maven
